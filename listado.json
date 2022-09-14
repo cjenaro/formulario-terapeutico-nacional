@@ -2,6 +2,9 @@
   "data": {
     "ejemplo": {
       "nombre": "Ejemplo"
+    },
+    "ibuprofeno": {
+      "nombre": "Ibuprofeno"
     }
   }
 }
